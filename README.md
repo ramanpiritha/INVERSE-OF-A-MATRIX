@@ -7,10 +7,11 @@ To write a python program to find the inverse of a matrix
 
 
 ## Program:
-```
+
 #Program to find the inverse of a matrix.
 #Developed by: PIRITHARAMAN R
 #RegisterNumber:23013537
+```
 import numpy as np
 A=[[6,2,3],[3,1,1],[10,3,4]]
 b=np.linalg.inv(A)
